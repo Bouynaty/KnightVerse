@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "#fix",
+    "#revamping",
+    "fix/sc-06-overflow-checks-safe-math",
+    "main",
+    "origin",
+    "typed-ui",
+    "waitlist"
+  ],
+  "parent": {
+    "#fix": "main",
+    "#revamping": "main",
+    "fix/sc-06-overflow-checks-safe-math": "main",
+    "main": null,
+    "origin": "main",
+    "typed-ui": "main",
+    "waitlist": "main"
+  },
+  "order": [
+    "main",
+    "#fix",
+    "#revamping",
+    "fix/sc-06-overflow-checks-safe-math",
+    "origin",
+    "typed-ui",
+    "waitlist"
+  ]
+}
